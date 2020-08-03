@@ -21,7 +21,7 @@
   </parent>
   <groupId>org.apache.hive</groupId>
   <artifactId>hive</artifactId>
-  <version>1.2.1000.2.6.5.0-SNAPSHOT</version>
+  <version>1.2.1000.2.6.5.3026-7</version>
   <packaging>pom</packaging>
 
   <name>Hive</name>
@@ -98,16 +98,16 @@
     <maven.build-helper.plugin.version>1.8</maven.build-helper.plugin.version>
 
     <!-- Library Dependency Versions -->
-    <accumulo.version>1.7.0.2.6.5.0-SNAPSHOT</accumulo.version>
+    <accumulo.version>1.7.0.2.6.5.3026-7</accumulo.version>
     <activemq.version>5.5.0</activemq.version>
     <ant.version>1.9.1</ant.version>
     <antlr.version>3.4</antlr.version>
-    <avatica.version>1.8.0.2.6.5.0-SNAPSHOT</avatica.version>
+    <avatica.version>1.8.0.2.6.5.3026-7</avatica.version>
     <avro.version>1.7.5</avro.version>
     <apache-directory-server.version>1.5.6</apache-directory-server.version>
     <apache-directory-clientapi.version>0.1</apache-directory-clientapi.version>
     <bonecp.version>0.8.0.RELEASE</bonecp.version>
-    <calcite.version>1.2.0.2.6.5.0-SNAPSHOT</calcite.version>
+    <calcite.version>1.2.0.2.6.5.3026-7</calcite.version>
     <datanucleus-api-jdo.version>4.2.1</datanucleus-api-jdo.version>
     <datanucleus-core.version>4.1.6</datanucleus-core.version>
     <datanucleus-rdbms.version>4.1.7</datanucleus-rdbms.version>
@@ -129,11 +129,11 @@
     <guava.version>24.1.1-jre</guava.version>
     <groovy.version>2.4.11</groovy.version>
     <hadoop-20S.version>1.2.1</hadoop-20S.version>
-    <hadoop-23.version>2.7.3.2.6.5.0-SNAPSHOT</hadoop-23.version>
+    <hadoop-23.version>2.7.3.2.6.5.3026-7</hadoop-23.version>
     <hadoop.bin.path>${basedir}/${hive.path.to.root}/testutils/hadoop</hadoop.bin.path>
     <hamcrest.version>1.3</hamcrest.version>
     <hbase.hadoop1.version>0.98.9-hadoop1</hbase.hadoop1.version>
-    <hbase.hadoop2.version>1.1.2.2.6.5.0-SNAPSHOT</hbase.hadoop2.version>
+    <hbase.hadoop2.version>1.1.2.2.6.5.3026-7</hbase.hadoop2.version>
     <hikaricp.version>2.5.1</hikaricp.version>
     <!-- httpcomponents are not always in version sync -->
     <httpcomponents.client.version>4.4</httpcomponents.client.version>
@@ -167,7 +167,7 @@
     <stax.version>1.0.1</stax.version>
     <slf4j.version>1.7.5</slf4j.version>
     <ST4.version>4.0.4</ST4.version>
-    <tez.version>0.7.0.2.6.5.0-SNAPSHOT</tez.version>
+    <tez.version>0.7.0.2.6.5.3026-7</tez.version>
     <super-csv.version>2.2.0</super-csv.version>
     <spark.version>1.3.1</spark.version>
     <scala.binary.version>2.10</scala.binary.version>
@@ -177,7 +177,7 @@
     <wadl-resourcedoc-doclet.version>1.4</wadl-resourcedoc-doclet.version>
     <velocity.version>1.5</velocity.version>
     <xerces.version>2.9.1</xerces.version>
-    <zookeeper.version>3.4.6.2.6.5.0-SNAPSHOT</zookeeper.version>
+    <zookeeper.version>3.4.6.2.6.5.3026-7</zookeeper.version>
     <jpam.version>1.1</jpam.version>
     <felix.version>2.4.0</felix.version>
     <curator.version>2.12.0</curator.version>
